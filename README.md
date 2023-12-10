@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 
-- 💬 My Portfolio: <a href="https://shihlings.github.io">shihlings.github.io</a>
-- 📫 How to reach me: <a href="mailto:shihling@student.ubc.ca">shihling@student.ubc.ca</a>
+- 💬 My Portfolio: <a href="https://shihlings.github.io" target="_blank">shihlings.github.io</a>
+- 📫 How to reach me: <a href="mailto:shihling@student.ubc.ca" target="_blank">shihling@student.ubc.ca</a>
 - 😄 Pronouns: they/them
 
 <!-- - ⚡ Fun fact: ...
