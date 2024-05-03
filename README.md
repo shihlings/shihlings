@@ -8,7 +8,6 @@
 
 - 💬 My Portfolio: <a href="https://shihlings.github.io" target="_blank">shihlings.github.io</a>
 - 📫 How to reach me: <a href="mailto:shihling@student.ubc.ca" target="_blank">shihling@student.ubc.ca</a>
-- 😄 Pronouns: they/them
 
 <!-- - ⚡ Fun fact: ...
 -->
