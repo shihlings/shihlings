@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ... -->
 
 - 💬 My Portfolio: <a href="https://shihlings.github.io" target="_blank">shihlings.github.io</a>
-- 📫 How to reach me: <a href="mailto:shihling@student.ubc.ca" target="_blank">shihling@student.ubc.ca</a>
+- 📫 How to reach me: <a href="mailto:shihling.shen@icloud.com" target="_blank"> shihling.shen@icloud.com</a>
 
 <!-- - ⚡ Fun fact: ...
 -->
