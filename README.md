@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 
-- 💬 My Portfolio: <a href="https://shihlings.github.io" target="_blank">shihlings.github.io</a>
-- 📫 How to reach me: <a href="mailto:shihling.shen@icloud.com" target="_blank"> shihling.shen@icloud.com</a>
+- 💬 My Portfolio: <a href="https://shihling.com" target="_blank">shihling.com</a>
+- 📫 How to reach me: <a href="mailto:shihling@shihling.com" target="_blank"> shihling@shihling.com</a>
 
 <!-- - ⚡ Fun fact: ...
 -->
